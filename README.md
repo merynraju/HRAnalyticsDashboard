@@ -10,5 +10,6 @@ On average, employees at the company are 37 years old
 The rate of employees leaving the organization is 16.12% and 237 employees left the organization
 There are more men than women working at the company
 The age group of 25 to 34 has the highest percentage of departing employees
+https://prod-useast-b.online.tableau.com/#/site/dataanalystmerin/views/HRAnalytics/HRAnalyticsDashboardbyMerin?:iid=3
 ![image](https://github.com/merynraju/HRAnalyticsDashboard/assets/122895191/e0f5bfbf-ff51-4dc9-b52b-316efd67bdb7)
 
